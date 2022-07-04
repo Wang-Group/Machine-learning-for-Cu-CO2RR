@@ -5,3 +5,6 @@ in the 2nd round, besides the functional group-based featurization method, we us
 LRIF means Random intersection tree part.find which combination is inportant first and generate new.
 Other program are basic python code from scikit learn, nothing special.
 The prediction of 24 molecules was done by the code named Smiles2RdkitSmiles.py
+
+This project finally published at Guo, Y. et al. Machine-Learning-Guided Discovery and Optimization of Additives in Preparing Cu Catalysts for CO2 Reduction. J. Am. Chem. Soc. 143, 5755-5762, doi:10.1021/jacs.1c00339 (2021).
+If used, please cite.
