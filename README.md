@@ -6,5 +6,8 @@ LRIF means Random intersection tree part.find which combination is inportant fir
 Other program are basic python code from scikit learn, nothing special.
 The prediction of 24 molecules was done by the code named Smiles2RdkitSmiles.py
 
-This project finally published at Guo, Y. et al. Machine-Learning-Guided Discovery and Optimization of Additives in Preparing Cu Catalysts for CO2 Reduction. J. Am. Chem. Soc. 143, 5755-5762, doi:10.1021/jacs.1c00339 (2021).
+This project finally published at Guo, Y. et al. Machine learning part was finished by Yuming Su and Yiheng Dai. 
+The infomation of this published paper is below:
+Machine-Learning-Guided Discovery and Optimization of Additives in Preparing Cu Catalysts for CO2 Reduction. J. Am. Chem. Soc. 143, 5755-5762, doi:10.1021/jacs.1c00339 (2021).
 If used, please cite.
+https://pubs.acs.org/doi/10.1021/jacs.1c00339?ref=pdf
